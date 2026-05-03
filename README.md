@@ -89,7 +89,6 @@ This tool accesses your rekordbox database directly. It is currently **read-only
 - [ ] Playlist creation
 - [ ] Track comment / tag editing
 - [ ] Bulk metadata updates
-- [ ] Harmonic mix suggestions
 
 ## Contact
 
@@ -190,7 +189,6 @@ python3 -m venv .venv
 - [ ] プレイリスト作成
 - [ ] トラックのコメント・タグ編集
 - [ ] メタデータの一括更新
-- [ ] ハーモニックミックス提案
 
 ## 連絡先
 
