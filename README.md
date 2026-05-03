@@ -84,6 +84,8 @@ Once connected, you can ask Claude things like:
 
 This tool accesses your rekordbox database directly. It is currently **read-only**, so no data will be modified. That said, always keep a backup of your library just in case.
 
+This tool relies on unofficial database access via [pyrekordbox](https://github.com/dylanljones/pyrekordbox). A rekordbox update may change the database structure and break compatibility. If something stops working after an update, please open an issue.
+
 ## Roadmap
 
 - [ ] Playlist creation
@@ -193,6 +195,8 @@ python3 -m venv .venv
 ## 注意事項
 
 このツールはrekordboxのデータベースに直接アクセスします。現在は**読み取り専用**なのでデータが変更されることはありませんが、念のためライブラリのバックアップを取っておくことをおすすめします。
+
+[pyrekordbox](https://github.com/dylanljones/pyrekordbox) を使った非公式なDBアクセスのため、rekordboxのアップデートによってDB構造が変わり、動作しなくなる可能性があります。アップデート後に動かなくなった場合はissueを立ててください。
 
 ## 今後の予定
 
