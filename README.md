@@ -90,6 +90,16 @@ This tool accesses your rekordbox database directly. It is currently **read-only
 - [ ] Track comment / tag editing
 - [ ] Bulk metadata updates
 
+## Disclaimer
+
+This is an **unofficial** tool and is not affiliated with, endorsed by, or associated with Pioneer DJ or rekordbox in any way.
+
+This tool accesses the rekordbox database using unofficial methods. Use at your own risk. The author takes no responsibility for any data loss or damage to your library.
+
+## License
+
+MIT License. See [LICENSE](LICENSE) for details.
+
 ## Contact
 
 Twitter: [@yosuke_8416](https://twitter.com/yosuke_8416)
@@ -189,6 +199,16 @@ python3 -m venv .venv
 - [ ] プレイリスト作成
 - [ ] トラックのコメント・タグ編集
 - [ ] メタデータの一括更新
+
+## 免責事項
+
+これは**非公式ツール**です。Pioneer DJ・rekordboxとは一切関係ありません。
+
+rekordboxのデータベースに非公式な方法でアクセスするツールです。自己責任でご利用ください。データの損失やライブラリへのダメージについて、作者は一切の責任を負いません。
+
+## ライセンス
+
+MIT License。詳細は [LICENSE](LICENSE) を参照してください。
 
 ## 連絡先
 
